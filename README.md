@@ -1,5 +1,3 @@
-# spamsms
-Panggilan Spam Tidak Terbatas
 
 # Requirements
 ```
@@ -10,8 +8,8 @@ requests
 ```
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/AnonRoz-Team/arz_call
-$ cd arz_call
+$ git clone https://github.com/haxavier/spamsms
+$ cd spamsms
 $ python2 call.py 
 ```
-Anak BSI LO!
+ANAK BSI LO!
