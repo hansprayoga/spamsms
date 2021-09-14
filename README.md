@@ -1,4 +1,3 @@
-rlstam30d
 
 # Requirements
 ```
